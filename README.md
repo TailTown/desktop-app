@@ -49,6 +49,7 @@
 - MacOS and Unix support
 
 ## 🪲 Known bugs 🪲
+- When refreshing the current page, all the notifications badges get reset
 - Broken UI with small-sized window
 - Rarely bad looking comments and commissions rendering
 - Times and dates may be inaccurate if the timezone setted on Fur Affinity doesn't match the one of the user's computer
@@ -56,6 +57,6 @@
 - Music, poetry etc. submissions handling
 
 
-## Disclaimer
+## 📃 Disclaimer 📃
 Tailtown is not related of affiliated to Fur Affinity.  
 All product names, logos, brands and other trademarks or images shown or mentioned are the property of the respective brand owners.
