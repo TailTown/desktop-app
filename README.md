@@ -1,7 +1,7 @@
 # 🚀 TailTown Desktop Client 🚀  
 
 #### Custom Fur Affinity desktop application by **[Gren](https://www.furaffinity.net/user/grenranoggo)** and **zenekron**.  
-📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/download/v0.0.1/TailTown-0.0.1-installer.exe) 📥  
+📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/latest) (TailTown-installer.exe) 📥  
 🐾 [Official Discord server](https://discord.gg/ftcNND48) 🐾  
 
 ![immagine](https://github.com/TailTown/desktop-app/assets/29413396/f185802c-ae23-4226-8885-9707048b9541)
