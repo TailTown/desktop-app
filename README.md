@@ -2,6 +2,8 @@
 
 #### Custom Fur Affinity desktop application by **[Gren](https://www.furaffinity.net/user/grenranoggo)** and **zenekron**.  
 📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/latest) (TailTown-installer.exe) 📥  
+PS: We are sorry for the virus warning on Windows but to sign our application they ask about $200 per year :')  
+  
 🐾 [Official Discord server](https://discord.gg/ftcNND48) 🐾  
 
 ![immagine](https://github.com/TailTown/desktop-app/assets/29413396/f185802c-ae23-4226-8885-9707048b9541)
