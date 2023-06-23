@@ -1,6 +1,6 @@
 # 🚀 TailTown Desktop Client 🚀  
 
-#### Custom Fur Affinity desktop application by **[Gren](https://www.furaffinity.net/user/grenranoggo)** and **zenekron**.  
+#### Custom Fur Affinity desktop application by **[Gren](https://www.furaffinity.net/user/grenranoggo)** and **[zenekron](https://github.com/zenekron)**.  
 📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/latest) (TailTown-installer.exe) 📥  
 PS: We are sorry for the virus warning on Windows but to sign our application they ask about $200 per year :')  
   
@@ -51,7 +51,6 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 - MacOS and Unix support
 
 ## 🪲 Known bugs 🪲
-- When refreshing the current page, all the notifications badges get reset
 - Broken UI with small-sized window
 - Rarely bad looking comments and commissions rendering
 - Times and dates may be inaccurate if the timezone setted on Fur Affinity doesn't match the one of the user's computer
