@@ -1,7 +1,7 @@
 # 🚀 TailTown Desktop Client 🚀  
 
 #### Custom Fur Affinity desktop application by **[Gren](https://www.furaffinity.net/user/grenranoggo)** and **[zenekron](https://github.com/zenekron)**.  
-📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/latest) (TailTown-installer.exe) 📥  
+📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/latest/download/TailTown-installer.exe) (TailTown-installer.exe) 📥  
 PS: We are sorry for the virus warning on Windows but to sign our application they ask about $200 per year :')  
   
 🐾 [Official Discord server](https://discord.gg/Q28UCWsDDf) 🐾  
@@ -49,7 +49,6 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 - MacOS and Unix support
 
 ## 🪲 Known bugs 🪲
-- Broken UI with small-sized window
 - Times and dates may be inaccurate if the timezone setted on Fur Affinity doesn't match the one of the user's computer
 - Ads don't get refreshed on new page fetching in infinite scrolled views
 - Music, poetry etc. submissions handling
