@@ -1,7 +1,7 @@
 # 🚀 TailTown Desktop Client 🚀  
 
 #### Custom Fur Affinity desktop application by **[Gren](https://www.furaffinity.net/user/grenranoggo)** and **[zenekron](https://github.com/zenekron)**.  
-📥 Download [latest version](https://github.com/TailTown/desktop-app/releases/latest/download/TailTown-installer.exe) (TailTown-installer.exe) 📥  
+📥 Download [latest TailTown version](https://github.com/TailTown/desktop-app/releases/latest/download/TailTown-installer.exe) 📥  
 PS: We are sorry for the virus warning on Windows but to sign our application they ask about $200 per year :')  
   
 🐾 [Official Discord server](https://discord.gg/Q28UCWsDDf) 🐾  
