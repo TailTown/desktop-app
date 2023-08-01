@@ -24,7 +24,8 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 
 ## ✅ Implemented features ✅
 
-- All profile views browsing 
+- All profile views browsing
+- Search bar
 - New notifications view and navbar dropdown button
 - Notifications count badge
 - Infinite scroll in gallery, scraps, favorites, journals, user feed and Fur Affinity home
@@ -36,7 +37,6 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 
 ## ⚠️ Partially-implemented features ⚠️
 - Notes view
-- Search bar
 
 ## 🔄 Work in progress features 🔄
 - Remove submissions from favorites
@@ -49,7 +49,6 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 - MacOS and Unix support
 
 ## 🪲 Known bugs 🪲
-- Times and dates may be inaccurate if the timezone setted on Fur Affinity doesn't match the one of the user's computer
 - Ads don't get refreshed on new page fetching in infinite scrolled views
 - Music, poetry etc. submissions handling
 
