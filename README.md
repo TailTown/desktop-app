@@ -35,13 +35,10 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 - Adding submissions to favorites
 - Auto-updater
 
-## ⚠️ Partially-implemented features ⚠️
-- Notes view
-
 ## 🔄 Work in progress features 🔄
 - Remove submissions from favorites
 - Commenting submissions and journals
-- Posting journals and submissions
+- Posting submissions and journals
 - Posting shouts
 - Editing profile information (biography, social links etc.)
 - Removing notifications
@@ -50,7 +47,6 @@ PS: We are sorry for the virus warning on Windows but to sign our application th
 
 ## 🪲 Known bugs 🪲
 - Ads don't get refreshed on new page fetching in infinite scrolled views
-- Music, poetry etc. submissions handling
 
 
 ## 📃 Disclaimer 📃
